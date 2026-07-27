@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "wohnungen",
+      "app_id": "6a67718396a742023e0f652d",
+      "path": "/rest/apps/6a67718396a742023e0f652d/records",
+      "allowed_fields": [
+        "bezeichnung",
+        "strasse",
+        "hausnummer",
+        "plz",
+        "ort",
+        "etage",
+        "mieter_vorname",
+        "mieter_nachname",
+        "telefon",
+        "email",
+        "notizen"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Wohnungen — Formular"
+    },
+    {
+      "entity": "fritz!boxen",
+      "app_id": "6a677186efbcbdef0709827e",
+      "path": "/rest/apps/6a677186efbcbdef0709827e/records",
+      "allowed_fields": [
+        "modell",
+        "seriennummer",
+        "mac_adresse",
+        "ip_adresse",
+        "firmware",
+        "status",
+        "installationsdatum",
+        "benutzername",
+        "admin_url",
+        "notizen"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Fritz!Boxen — Formular"
+    }
+  ]
+}
