@@ -1,3 +1,0 @@
-- Wohnungen (wohnungen): bezeichnung[string/text], strasse[string/text], hausnummer[string/text], plz[string/text], ort[string/text], etage[string/text], mieter_vorname[string/text], mieter_nachname[string/text], telefon[string/tel], email[string/email], notizen[string/textarea]
-- Fritz!Boxen (fritz!boxen): modell[string/text], seriennummer[string/text], mac_adresse[string/text], ip_adresse[string/text], firmware[string/text], status[lookup/radio], installationsdatum[date/date], benutzername[string/text], admin_url[string/url], wohnung[applookup/select], notizen[string/textarea]
-  → wohnung links to app_id 6a67718396a742023e0f652d

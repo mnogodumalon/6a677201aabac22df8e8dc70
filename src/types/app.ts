@@ -43,7 +43,7 @@ export interface FritzBoxen {
 
 export const APP_IDS = {
   WOHNUNGEN: '6a67718396a742023e0f652d',
-  FRITZBOXEN: '6a677186efbcbdef0709827e',
+  'FRITZ!BOXEN': '6a677186efbcbdef0709827e',
 } as const;
 
 
